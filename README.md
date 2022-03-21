@@ -1,5 +1,5 @@
 # 网易易盾
-http://ye.dun.163yun.com
+https://dun.163.com/product/dna
 
 ## 项目
 本项目为设备指纹服务/v1/device/query接口请求demo

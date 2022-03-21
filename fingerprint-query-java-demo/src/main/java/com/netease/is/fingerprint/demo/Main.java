@@ -12,12 +12,10 @@ import com.netease.is.fingerprint.demo.utils.HttpClient4Utils;
 import com.netease.is.fingerprint.demo.utils.ParamUtils;
 import org.apache.http.client.HttpClient;
 
-import java.sql.SQLOutput;
 import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author chenxing03
  * @version 2022-03-21
  */
 public class Main {

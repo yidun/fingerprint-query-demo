@@ -23,7 +23,6 @@ import org.apache.http.impl.conn.PoolingHttpClientConnectionManager;
 import org.apache.http.util.EntityUtils;
 
 /**
- * @author chenxing03
  * @version 2022-03-21
  */
 public class HttpClient4Utils {
